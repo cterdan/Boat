@@ -1,0 +1,3 @@
+C:/Users/Daniel/CLionProjects/CIS 246/WK 14  HW EC/cmake-build-debug/CMakeFiles/WK_14_HW.dir
+C:/Users/Daniel/CLionProjects/CIS 246/WK 14  HW EC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel/CLionProjects/CIS 246/WK 14  HW EC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
